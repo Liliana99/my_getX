@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_getx_validation/bindings/bindings.dart';
-import 'package:flutter_getx_validation/folding_main.dart';
+import 'package:flutter_getx_validation/pages/folding_main.dart';
 import 'package:get/get.dart';
 
 void main() {
