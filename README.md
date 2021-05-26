@@ -3,6 +3,8 @@
 Flutter getX
 Go there to see more explanation about this project
 
+![](assets/flujo1.png)
+
 https://www.marialijideveloper.com/2021/05/getx-extra-light-and-powerful-solution-for-flutter-it-combines-high-performance-state-management/
 ## Flutter packages
  - [get] 
