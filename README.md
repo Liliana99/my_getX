@@ -4,6 +4,8 @@ Flutter getX
 Go there to see more explanation about this project
 
 ![](assets/readme/demo-gif.webp)
+
+
 ![](assets/readme/flujo1.png)
 
 
